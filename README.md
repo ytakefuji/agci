@@ -14,4 +14,4 @@ $ agci "csv data filename"
 
 $ agci Sample\ GC\ data\ 1\ pt\ acetone\ 1\ pt\ cyclohexane.csv
 
-<img src='result.png' width=640 hight=480>
+<img src='https://github.com/ytakefuji/agci/raw/main/result.png' width=640 hight=480>
