@@ -10,7 +10,7 @@ $ pip install agci
 
 # how to run agci
 
-$ agci <csv data filename>
+$ agci "csv data filename"
 
 $ agci Sample\ GC\ data\ 1\ pt\ acetone\ 1\ pt\ cyclohexane.csv
 
