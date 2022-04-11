@@ -9,6 +9,7 @@ via Code Ocean.
 $ pip install agci
 
 # how to run agci
+The result picture will be saved in result.png.
 
 $ agci "csv data filename"
 
