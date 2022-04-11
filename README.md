@@ -1,4 +1,8 @@
 # agci
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/9562303/tree)
+
+takefuji (2022) agci for a reproducible PyPI application [Source Code]. https://doi.org/10.24433/CO.8712645.v1
+
 This is a tutorial on how to debut a PyPI application and how to validate software reproducibility.
 This agci is renamed and modified from "Symmetric GC integration.py" at https://github.com/1mikegrn/pyGC/blob/master/JCE-supplemental/Asymmetric%20GC%20integration.py
 The modification is used to show how to debut a PyPI application and how to validate software reproducibility 
